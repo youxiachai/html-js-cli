@@ -1,5 +1,5 @@
 {
-  "name": "myrepl",
+  "name": "html-js-cli",
   "version": "0.0.1",
   "description": "html-js cli tools",
   "bin": {
