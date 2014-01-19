@@ -1,7 +1,7 @@
 {
   "name": "myrepl",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "html-js cli tools",
   "bin": {
     "htmljs": "./bin/htmljscli"
   },
@@ -11,6 +11,14 @@
   },
   "author": "youxiachai",
   "license": "MIT",
+    "homepage": "https://github.com/youxiachai/html-js-cli",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:youxiachai/html-js-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/youxiachai/html-js-cli/issues"
+    },
   "dependencies": {
     "commander": "~2.1.0",
     "request": "~2.33.0",
